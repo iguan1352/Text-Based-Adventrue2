@@ -7,7 +7,7 @@ import obstacles.Room;
 import obstacles.Wall;
 import people.Player;
 
-
+ 
 public class Runner {
 
 	public static void main(String[] args)

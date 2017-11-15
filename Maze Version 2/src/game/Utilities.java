@@ -1,7 +1,7 @@
 package game;
 
 import java.util.Random;
-
+ 
 public class Utilities {
 	public int x;
 	public int y;
